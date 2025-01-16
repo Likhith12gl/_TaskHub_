@@ -78,5 +78,5 @@ TaskHub is licensed under the MIT License. See the LICENSE file for more details
 ---
 
 ## Contact 📩
-For any questions or feedback, feel free to reach out via [your email/contact details].
+For any questions or feedback, feel free to reach out via [liki1962003@gmail.com].
 
